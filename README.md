@@ -34,7 +34,7 @@ Program demonstrasi penggunaan while loop untuk perulangan dasar dalam Java.
 |2|	1|	true|	1|
 |...|	...|	...|	...|
 |10	|9|	true|	9|
-|11	|10	|false	-|
+|11	|10	|false|	-|
 
 ---
 
